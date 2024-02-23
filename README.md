@@ -80,6 +80,12 @@ Remember, this is just a basic tutorial. GitHub has many more features like bran
 - **Remote**: This is the version of a repository or branch that is hosted on a server, most likely GitHub. 
 - **Repository**: A directory or storage space where your projects can live.
 
+# References
+
+- Git Documentation
+- GitHub Guides
+- WebStorm Guide
+
 # Commit Messages
 
 When making commits, it's important to have clear messages. Here are some examples:
